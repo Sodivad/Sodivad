@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi,
+
+See also my profiles at:
+ - https://invent.kde.org/davidre
+ - https://gitlab.freedesktop.org/davidre
 
 <!--
 **Sodivad/Sodivad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
